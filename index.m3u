@@ -1,0 +1,421 @@
+#EXTM3U
+
+#IPTV Filter by Justryuz
+#09 May 2017 / 07.34 AM
+
+#------------#
+# Family Pack
+#------------#
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Family Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="img/asia/my/tv1" tvg-name="RTM TV1"  group-title="Family Pack",RTM TV1
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/79/RTM_TV2new.png" tvg-name="RTM TV2"  group-title="Family Pack",RTM TV2
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/4e/TV3_%28Malaysia%29Logo_Baru.gif" tvg-name="TV3"  group-title="Family Pack",TV3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/71/Astro_ria.jpg" tvg-name="Astro Ria"  group-title="Family Pack",Astro Ria
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/a/a1/Astro_prima.jpg" tvg-name="Astro Prima"  group-title="Family Pack",Astro Prima
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/72/Astro-oasis.jpg" tvg-name="Astro Oasis"  group-title="Family Pack",Astro Oasis
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7b/Ntv7_Baru.JPG" tvg-name="NTV7"  group-title="Family Pack",NTV7
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" tvg-name="Tara HD"  group-title="Family Pack",Tara HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/RTM_TVi.jpg" tvg-name="RTM TVi"  group-title="Family Pack",RTM TVi
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f1/ARTvariety.jpg" tvg-name="ART"  group-title="Family Pack",ART
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" tvg-name="TV AlHijrah"  group-title="Family Pack",TV AlHijrah
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/qFX_QBu2CB3ZLDDRpGbA8BO_P2nWa2Qhp-HoCgzHg9DoaHo2w6kzSUXwd8oz04q2JLI=w300" tvg-name="Astro GO Shop"  group-title="Family Pack",Astro GO Shop
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="TV9"  group-title="Family Pack",TV9
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/71/Astro_ria.jpg" tvg-name="Astro Ria HD"  group-title="Family Pack",Astro Ria HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Astro_maya_hd.png/160px-Astro_maya_hd.png" tvg-name="Astro Maya HD"  group-title="Family Pack",Astro Maya HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1f/Astro_vaanavil.jpg" tvg-name="Astro Vaanavil"  group-title="Family Pack",Astro Vaanavil
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/c/c0/Astro-vellithirai.jpg" tvg-name="Astro Vellithirai"  group-title="Family Pack",Astro Vellithirai
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://3.bp.blogspot.com/-rzwgZtxDid0/V0roG7RCeBI/AAAAAAAAPOI/YfD-SeVTblY4SMnqy4JPKaGqdynV6nRZgCLcB/s1600/Makkal%2BTV.png" tvg-name="Makkal TV"  group-title="Family Pack",Makkal TV
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/231_300.png" tvg-name="Astro Vinmeen HD"  group-title="Family Pack",Astro Vinmeen HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" tvg-name="Astro Xi Yue HD"  group-title="Family Pack",Astro Xi Yue HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/301_300.png" tvg-name="Astro AEC"  group-title="Family Pack",Astro AEC
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/fc/KahLaiToi.jpg/800px-KahLaiToi.jpg" tvg-name="Kah Lai Toi"  group-title="Family Pack",Kah Lai Toi
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/305_300.png" tvg-name="TVB Classic Channel"  group-title="Family Pack",TVB Classic Channel
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" tvg-name="Astro AEC HD"  group-title="Family Pack",Astro AEC HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://selebritionline.com/wp-content/uploads/2013/01/QJHD-E.jpg" tvg-name="Astro Quan Jia HD"  group-title="Family Pack",Astro Quan Jia HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png" tvg-name="Celestial Classic Movies"  group-title="Family Pack",Celestial Classic Movies
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://zhongwen.astro.com.my/channels/xty/contest/uploads/5/2/0/9/52099483/7822798.png" tvg-name="Astro Xiao Tai Yang"  group-title="Family Pack",Astro Xiao Tai Yang
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f6/CCTV_4.jpg" tvg-name="CCTV-4"  group-title="Family Pack",CCTV-4
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/541px-KBS_World_%282009%29.svg.png" tvg-name="KBS World"  group-title="Family Pack",KBS World
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/a/a1/ONE_logo.jpg" tvg-name="ONE HD"  group-title="Family Pack",ONE HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg" tvg-name="Astro Awani"  group-title="Family Pack",Astro Awani
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" tvg-name="Bernama News Channel (BNC)"  group-title="Family Pack",Bernama News Channel (BNC)
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/CCTV_9_International.jpg" tvg-name="CGTN"  group-title="Family Pack",CGTN
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f6/NatGeo_Wild.png" tvg-name="Nat Geo Wild"  group-title="Family Pack",Nat Geo Wild
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/601_300.png" tvg-name="Astro Tutor TV UPSR"  group-title="Family Pack",Astro Tutor TV UPSR
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/602_300.png" tvg-name="Astro Tutor TV PT3"  group-title="Family Pack",Astro Tutor TV PT3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/603_300.png" tvg-name="Astro Tutor TV SPM"  group-title="Family Pack",Astro Tutor TV SPM
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/19/Astro_tviq.jpg" tvg-name="Astro TVIQ"  group-title="Family Pack",Astro TVIQ
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e9/Astro_ceria.jpg" tvg-name="Astro Ceria"  group-title="Family Pack",Astro Ceria
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/792px-Disney_XD_-_2015.svg.png" tvg-name="Disney XD"  group-title="Family Pack",Disney XD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/263px-AXN_logo.svg.png" tvg-name="AXN"  group-title="Family Pack",AXN
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e6/Diva_Universal.png" tvg-name="DIVA (Hallmark Channel)"  group-title="Family Pack",DIVA (Hallmark Channel)
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/9d/Afc.svg/120px-Afc.svg.png" tvg-name="AFC"  group-title="Family Pack",AFC
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/4e/Discoverytravel_158x200.jpg" tvg-name="TLC"  group-title="Family Pack",TLC
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/95/8TV_my.svg/240px-8TV_my.svg.png" tvg-name="8TV"  group-title="Family Pack",8TV
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-name="HITS HD"  group-title="Family Pack",HITS HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" tvg-name="FOX HD"  group-title="Family Pack",FOX HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8b/Nat_Geo_People_Logo.jpg" tvg-name="Nat Geo People HD"  group-title="Family Pack",Nat Geo People HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png" tvg-name="FX HD"  group-title="Family Pack",FX HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8b/Foodnetworkasia.png" tvg-name="Food Network HD"  group-title="Family Pack",Food Network HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/728_300.png" tvg-name="Life Inspired HD"  group-title="Family Pack",Life Inspired HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" tvg-name="Kix HD"  group-title="Family Pack",Kix HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GOASEAN_Logo-06.png/800px-GOASEAN_Logo-06.png" tvg-name="Go Asean HD"  group-title="Family Pack",Go Asean HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f6/Astro_Arena.jpg" tvg-name="Astro Arena"  group-title="Family Pack",Astro Arena
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f6/Astro_Arena.jpg" tvg-name="Astro Arena HD"  group-title="Family Pack",Astro Arena HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Sports 3"  group-title="Family Pack",Fox Sports 3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Dynasty Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" tvg-name="Astro Shuang Xing"  group-title="Dynasty Pack",Astro Shuang Xing
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://img.b.tvb.com/wp-content/blogs.dir/tvbi/files/2015/04/wlthd_mand.png" tvg-name="Astro Wah Lai Toi"  group-title="Dynasty Pack",Astro Wah Lai Toi
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/34/Phoenix_Chinese.svg/90px-Phoenix_Chinese.svg.png" tvg-name="Phoenix Television"  group-title="Dynasty Pack",Phoenix Television
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/ent_news_whitebg_logoguide.jpg" tvg-name="TVB Entertainment"  group-title="Dynasty Pack",TVB Entertainment
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3a/Tvb_xinghe.jpg" tvg-name="TVB Xing He"  group-title="Dynasty Pack",TVB Xing He
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/e/e7/TVBS_logo.png/200px-TVBS_logo.png" tvg-name="TVBS-Asia"  group-title="Dynasty Pack",TVBS-Asia
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" tvg-name="Astro Shuang Xing"  group-title="Dynasty Pack",Astro Shuang Xing
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f6/NHK.jpg" tvg-name="NHK World"  group-title="Dynasty Pack",NHK World
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Movies Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO"  group-title="Movies Pack",HBO
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 2"  group-title="Movies Pack",HBO 2
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 3"  group-title="Movies Pack",HBO 3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 4"  group-title="Movies Pack",HBO 4
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 5"  group-title="Movies Pack",HBO 5
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="HBO HD"  group-title="Movies Pack",HBO HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/88px-Max_%28channel%29.svg.png" tvg-name="Cinemax"  group-title="Movies Pack",Cinemax
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/88px-Max_%28channel%29.svg.png" tvg-name="Cinemax"  group-title="Movies Pack",Cinemax
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Movies Premium"  group-title="Movies Pack",Fox Movies Premium
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Familly Movies HD"  group-title="Movies Pack",Fox Familly Movies HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Action Movies HD"  group-title="Movies Pack",Fox Action Movies HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MALAYSIA >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" tvg-name="Astro SuperSport"  group-title="Sports Pack",Astro SuperSport
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_300.png" tvg-name="Astro SuperSport 2"  group-title="Sports Pack",Astro SuperSport 2
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png" tvg-name="Astro SuperSport 3"  group-title="Sports Pack",Astro SuperSport 3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/817_300.png" tvg-name="Astro SuperSport 4"  group-title="Sports Pack",Astro SuperSport 4
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" tvg-name="Fox Sports"  group-title="Sports Pack",Fox Sports
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png" tvg-name="Fox Sports 2"  group-title="Sports Pack",Fox Sports 2
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png" tvg-name="Fox Sports 3"  group-title="Sports Pack",Fox Sports 3
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" tvg-name="Fox Sports HD"  group-title="Sports Pack",Fox Sports HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/512px-Eurosport_Logo_2015.svg.png" tvg-name="Eurosport"  group-title="Sports Pack",Eurosport
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" tvg-name="BeIN Sports HD"  group-title="Sports Pack",BeIN Sports HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< NEWS >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/8b/Cnn.svg/220px-Cnn.svg.png" tvg-name="CNN"  group-title="News Pack",CNN
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/800px-BBC_World_News_red.svg.png" tvg-name="BBC"  group-title="News Pack",BBC
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/120px-Aljazeera_eng.svg.png" tvg-name="Aljazeera"  group-title="News Pack",Aljazeera
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/2/29/CNBC_Asia.jpg" tvg-name="CNBC Asia"  group-title="News Pack",CNBC Asia
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/714801760632770560/7My2hMBt.jpg" tvg-name="Bloomberg Television"  group-title="News Pack",Bloomberg Television
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" tvg-name="SkyNews"  group-title="News Pack",SkyNews
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png" tvg-name="Australia Plus TV"  group-title="News Pack",Australia Plus TV
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< EDUCATION >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/fe/DiscoveryChannel.png" tvg-name="Discovery Channel"  group-title="Education Pack",Discovery Channel
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/199px-Natgeologo.svg.png" tvg-name="National Geographic Channel"  group-title="Education Pack",National Geographic Channel
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/ec/Discovery_science.jpg" tvg-name="Discovery Science"  group-title="Education Pack",Discovery Science
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" tvg-name="History"  group-title="Education Pack",History
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3a/Animal_Planet_Canada_Logo.PNG" tvg-name="Animal Planet"  group-title="Education Pack",Animal Planet
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://singteltv.com.sg/_channels/pic_ch204.jpg" tvg-name="Discovery Asia HD"  group-title="Education Pack",Discovery Asia HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< CARTOON >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/1000px-Nickelodeon_logo_new.svg.png" tvg-name="Nickelodeon"  group-title="Cartoon Pack",Nickelodeon
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://vignette1.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" tvg-name="Disney Junior"  group-title="Cartoon Pack",Disney Junior
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Disney_Channel_wordmark.svg/207px-Disney_Channel_wordmark.svg.png" tvg-name="Disney Channel"  group-title="Cartoon Pack",Disney Channel
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1000px-Cartoon_Network_logo.svg.png" tvg-name="Cartoon Network"  group-title="Cartoon Pack",Cartoon Network
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/561b005ce4b01fb24a27a072/1493888149054/" tvg-name="Zoo Moo"  group-title="Cartoon Pack",Zoo Moo
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< VARIASI >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/3/34/Lifetime_logo_2013.png/150px-Lifetime_logo_2013.png" tvg-name="Lifetime HD"  group-title="Variasi Pack",Lifetime HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/6/63/STAR_World_SE_Asia_New_Logo.png/175px-STAR_World_SE_Asia_New_Logo.png" tvg-name="Star World"  group-title="Variasi Pack",Star World
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/140px-E%21_Logo.svg.png" tvg-name="E!"  group-title="Variasi Pack",E!
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" tvg-name="MTV"  group-title="Variasi Pack",MTV
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/0/0b/Animax_logo.jpg" tvg-name="Animax"  group-title="Variasi Pack",Animax
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/719_300.png" tvg-name="Warner TV"  group-title="Variasi Pack",Warner TV
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MUSTIKA >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/83/Astro_Warna.jpg/160px-Astro_Warna.jpg" tvg-name="Astro Warna"  group-title="MUSTIKA Pack",Astro Warna
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f9/Astro_Citra.jpg" tvg-name="Astro Citra"  group-title="MUSTIKA Pack",Astro Citra
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/2/28/Astro_Bella.jpg" tvg-name="Astro Bella"  group-title="MUSTIKA Pack",Astro Bella
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< INDO PEK >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/142_300.png" tvg-name="Pelangi"  group-title="INDO Pack",Pelangi
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/141_300.png" tvg-name="Bintang"  group-title="INDO Pack",Bintang
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< PEK KOREA >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/394_300.png" tvg-name="Oh! K HD"  group-title="KOREA Pack",Oh! K HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/126px-Logo_tvN.svg.png" tvg-name="TVN HD"  group-title="KOREA Pack",TVN HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< METRO PEK >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/9f/HGTV_HD_logo.jpg" tvg-name="HGTV HD"  group-title="METRO Pack",HGTV HD
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7e/CI_Crime_Investigation_Network_Logo.png" tvg-name="Crime & Investigation Network"  group-title="METRO Pack",Crime & Investigation Network
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Eve_Channel_Logo.PNG" tvg-name="EVE"  group-title="METRO Pack",EVE
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" tvg-name="DMAX"  group-title="METRO Pack",DMAX
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/736_300.png" tvg-name="Fyi"  group-title="METRO Pack",Fyi
+http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
