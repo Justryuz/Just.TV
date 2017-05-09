@@ -16,16 +16,19 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv3.png" tvg-name="TV3"  group-title="Family Pack",TV3
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+goo.gl/TgdumC
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png" tvg-name="RTM Parlimen"  group-title="Family Pack",RTM Parlimen
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/71/Astro_ria.jpg" tvg-name="Astro Ria"  group-title="Family Pack",Astro Ria
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+goo.gl/5LC573
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/a/a1/Astro_prima.jpg" tvg-name="Astro Prima"  group-title="Family Pack",Astro Prima
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://go.layarku.tv/prima.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/72/Astro-oasis.jpg" tvg-name="Astro Oasis"  group-title="Family Pack",Astro Oasis
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://go.layarku.tv/oasis.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7b/Ntv7_Baru.JPG" tvg-name="NTV7"  group-title="Family Pack",NTV7
 http://go.layarku.tv/ntv7m.m3u8
@@ -34,7 +37,7 @@ http://go.layarku.tv/ntv7m.m3u8
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/RTM_TVi.jpg" tvg-name="RTM TVi"  group-title="Family Pack",RTM TVi
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f1/ARTvariety.jpg" tvg-name="ART"  group-title="Family Pack",ART
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -46,7 +49,7 @@ http://tvah-cdn.mynexa.my/tvahlive/_definst_/smil:tvah04.smil/chunklist_b746000_
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_8_04.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="TV9"  group-title="Family Pack",TV9
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://go.layarku.tv/tv9m.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/71/Astro_ria.jpg" tvg-name="Astro Ria HD"  group-title="Family Pack",Astro Ria HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -70,7 +73,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/301_300.png" tvg-name="Astro AEC"  group-title="Family Pack",Astro AEC
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/fc/KahLaiToi.jpg/800px-KahLaiToi.jpg" tvg-name="Kah Lai Toi"  group-title="Family Pack",Kah Lai Toi
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -410,7 +413,10 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MUSTIKA >>>>>>>>>>>>>>>>>>>[/COLOR]
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/83/Astro_Warna.jpg/160px-Astro_Warna.jpg" tvg-name="Astro Warna"  group-title="MUSTIKA Pack",Astro Warna
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://go.layarku.tv/warna.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s16.postimg.org/wfsus5krp/astro.png" tvg-name="Astro Mustika HD"  group-title="MUSTIKA Pack",Astro Mustika HD
+http://go.layarku.tv/mustikahd.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f9/Astro_Citra.jpg" tvg-name="Astro Citra"  group-title="MUSTIKA Pack",Astro Citra
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
