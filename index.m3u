@@ -217,6 +217,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 
+
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Movies Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO"  group-title="Movies Pack",HBO
@@ -299,17 +300,24 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/120px-Aljazeera_eng.svg.png" tvg-name="Aljazeera"  group-title="News Pack",Aljazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/2/29/CNBC_Asia.jpg" tvg-name="CNBC Asia"  group-title="News Pack",CNBC Asia
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.playlivenewz.com/wp-content/uploads/2010/08/CNBC_9.18.png" tvg-name="CNBC USA"  group-title="News Pack",CNBC USA
+https://www.youtube.com/heartbeat?video_id=Ga3maNZ0x0w&c=WEB&cver=1.20170503&utc_offset_minutes=480&ingestion_time=1494325023.9501452&cpn=bZx_sUlrQcK1dzls
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/714801760632770560/7My2hMBt.jpg" tvg-name="Bloomberg Television"  group-title="News Pack",Bloomberg Television
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+https://mediauswest.akamaized.net/us/us3_live.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" tvg-name="SkyNews"  group-title="News Pack",SkyNews
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" tvg-name="SkyNews UK"  group-title="News Pack",SkyNews UK
+https://edge-1273-de-fr.filmon.com/live/27.low.stream/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png" tvg-name="Australia Plus TV"  group-title="News Pack",Australia Plus TV
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.cnnindonesia.com/assets/image/logo_new.png" tvg-name="CNN Indonesia"  group-title="News Pack",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w809285383_b496000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/XjgXA8dDSnc/hqdefault.jpg" tvg-name="NHK BS2 (JAPAN)"  group-title="News Pack",NHK BS2 (JAPAN)
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
 
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< EDUCATION >>>>>>>>>>>>>>>>>>>[/COLOR]
