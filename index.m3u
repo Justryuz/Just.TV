@@ -13,7 +13,7 @@
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv2.png" tvg-name="RTM TV2"  group-title="Family Pack",RTM TV2
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv3.png" tvg-name="TV3"  group-title="Family Pack",TV3
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -28,7 +28,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7b/Ntv7_Baru.JPG" tvg-name="NTV7"  group-title="Family Pack",NTV7
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://go.layarku.tv/ntv7m.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" tvg-name="Tara HD"  group-title="Family Pack",Tara HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -40,10 +40,10 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/alhijrah.png" tvg-name="TV AlHijrah"  group-title="Family Pack",TV AlHijrah
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://tvah-cdn.mynexa.my/tvahlive/_definst_/smil:tvah04.smil/chunklist_b746000_slen.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/qFX_QBu2CB3ZLDDRpGbA8BO_P2nWa2Qhp-HoCgzHg9DoaHo2w6kzSUXwd8oz04q2JLI=w300" tvg-name="Astro GO Shop"  group-title="Family Pack",Astro GO Shop
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_8_04.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="TV9"  group-title="Family Pack",TV9
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -103,7 +103,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/bernama.jpg" tvg-name="Bernama News Channel (BNC)"  group-title="Family Pack",Bernama News Channel (BNC)
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/CCTV_9_International.jpg" tvg-name="CGTN"  group-title="Family Pack",CGTN
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -136,16 +136,16 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/9d/Afc.svg/120px-Afc.svg.png" tvg-name="AFC"  group-title="Family Pack",AFC
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://cd190.live99.top/live/057.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/4e/Discoverytravel_158x200.jpg" tvg-name="TLC"  group-title="Family Pack",TLC
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/95/8TV_my.svg/240px-8TV_my.svg.png" tvg-name="8TV"  group-title="Family Pack",8TV
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://go.layarku.tv/8tvm.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-name="HITS HD"  group-title="Family Pack",HITS HD
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://live.gslb.letv.com/gslb?stream_id=pay_hits_5000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" tvg-name="FOX HD"  group-title="Family Pack",FOX HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -163,7 +163,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" tvg-name="Kix HD"  group-title="Family Pack",Kix HD
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://27.254.63.162/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/GOASEAN_Logo-06.png/800px-GOASEAN_Logo-06.png" tvg-name="Go Asean HD"  group-title="Family Pack",Go Asean HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -280,13 +280,13 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< NEWS >>>>>>>>>>>>>>>>>>>[/COLOR]
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/8/8b/Cnn.svg/220px-Cnn.svg.png" tvg-name="CNN"  group-title="News Pack",CNN
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://208.86.19.123:8080/live/20.stream/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/800px-BBC_World_News_red.svg.png" tvg-name="BBC"  group-title="News Pack",BBC
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/120px-Aljazeera_eng.svg.png" tvg-name="Aljazeera"  group-title="News Pack",Aljazeera
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/2/29/CNBC_Asia.jpg" tvg-name="CNBC Asia"  group-title="News Pack",CNBC Asia
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -304,22 +304,65 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< EDUCATION >>>>>>>>>>>>>>>>>>>[/COLOR]
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/fe/DiscoveryChannel.png" tvg-name="Discovery Channel"  group-title="Education Pack",Discovery Channel
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://80.80.160.168/live/8/live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/199px-Natgeologo.svg.png" tvg-name="National Geographic Channel"  group-title="Education Pack",National Geographic Channel
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+https://skyfall.to/NationalGeographic/index.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/ec/Discovery_science.jpg" tvg-name="Discovery Science"  group-title="Education Pack",Discovery Science
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" tvg-name="History"  group-title="Education Pack",History
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3a/Animal_Planet_Canada_Logo.PNG" tvg-name="Animal Planet"  group-title="Education Pack",Animal Planet
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://80.80.160.168/live/1/500000/live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://singteltv.com.sg/_channels/pic_ch204.jpg" tvg-name="Discovery Asia HD"  group-title="Education Pack",Discovery Asia HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#################################
+#update raw channel for education
+#################################
+
+#EXTINF:0,Kinowelt TV
+https://skyfall.to/KinoweltTV/index.m3u8
+
+#EXTINF:0,Fox Serie
+https://skyfall.to/FoxSerie/index.m3u8
+
+#EXTINF:0,NatGeo Wild
+https://skyfall.to/NatGeoWild/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/2218_1.png", Mystery Science Theatre
+http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,RT Documentary HD
+http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
+
+#EXTINF:-1,NASA TV (HQ)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,Hunting Channel
+http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8
+
+#EXTINF:-1,Investigation Discovery HD
+http://216.31.255.235/hlsl/8/INVDSC/INVDSC.m3u8
+
+#EXTINF:-1,Nat Geo Wild HD
+http://216.31.255.235/hlsl/1/NATWLD/NATWLD.m3u8
+
+#EXTINF:-1,NDR HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+
+#EXTINF:-1,RT Documentary HD
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+
+#EXTINF:-1,Science HD
+http://216.31.255.235/hlsl/11/SCIENCE/SCIENCE.m3u8
+
+#EXTINF:-1,Velocity HD
+http://216.31.255.235/hlsl/6/VELOCITY/VELOCITY.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< CARTOON >>>>>>>>>>>>>>>>>>>[/COLOR]
@@ -338,6 +381,9 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/561b005ce4b01fb24a27a072/1493888149054/" tvg-name="Zoo Moo"  group-title="Cartoon Pack",Zoo Moo
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/my-favorite-logos/images/c/c5/NickToons_TV.png" tvg-name="Nicktoons"  group-title="Cartoon",Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
 
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< VARIASI >>>>>>>>>>>>>>>>>>>[/COLOR]
@@ -410,10 +456,113 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 
 
 
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MBC >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+
+#EXTINF:-1 tvg-logo="http://gl3a.com/album/165212_1340634894.jpg",MBC 2
+http://158.69.229.52:8900/MBC2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_200x200.jpg",MBC MAX
+http://158.69.229.52:8900/MBCMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC ACTION
+http://158.69.229.52:8900/MBCAction/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://arabztv.com/wp-content/uploads/2012/03/mbc4.jpg",MBC 4
+http://158.69.229.52:8900/MBC4/index.m3u8
 
 
 
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MALAYSIA RADIO >>>>>>>>>>>>>>>>>>>[/COLOR]
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://ikimfm.my/wp-content/uploads/2014/03/logo-ikimfm.png" tvg-name="IKIM FM"  group-title="Malaysia",IKIM FM
+http://50.7.96.210:8285/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="ERA FM"  group-title="Malaysia",ERA FM
+http://astro2.rastream.com/era?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="HOT FM"  group-title="Malaysia",HOT FM
+http://mediaprima.rastream.com/mediaprima-hotfm?type=.mp3/;stream.mp3
+
+#EXTINF:0, HOT FM KELATE
+http://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.suriafm.com.my/logo.png" tvg-name="SURIA FM"  group-title="Malaysia",SURIA FM
+http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/thr_gegar_my.png" tvg-name="THR GEGAR"  group-title="Malaysia",THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sinar_fm_my.png" tvg-name="SINAR FM"  group-title="Malaysia",SINAR FM
+http://astro2.rastream.com/sinar?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/radio/xx/xfm_astro.png" tvg-name="XFRESH FM"  group-title="Malaysia",XFRESH FM
+http://audri.rastream.com/amp-xfm_audri?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://static.radio.net/images/broadcasts/f4/0a/22164/c175.png" tvg-name="Bapakku FM"  group-title="Malaysia",Bapakku FM
+http://radio.bapakku.fm:8000
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/muzik-fm.jpg" tvg-name="MUZIK FM"  group-title="Malaysia",MUZIK FM
+http://69.197.60.122:8000/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/hh/hitz_fm.png" tvg-name="HITZ FM"  group-title="Malaysia",HITZ FM
+http://astro1.rastream.com/hitz?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/mm/mix_astro.png" tvg-name="MIX FM"  group-title="Malaysia",MIX FM
+http://astro2.rastream.com/mix?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1280px-Logo_Fly_FM.svg.png" tvg-name="FLY FM"  group-title="Malaysia",FLY FM
+http://radioactive1.rastream.com/mediaprima-flyfm?type=.mp3/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ll/lite_fm_astro.png" tvg-name="LITE FM"  group-title="Malaysia",LITE FM
+http://astro1.rastream.com/lite?type=.flv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/My-FM.jpg" tvg-name="MY FM CHINESE"  group-title="Malaysia",MY FM CHINESE
+http://astro1.rastream.com/myfm?type=.flv&_=0.3403705791570246
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" tvg-name="INDIA BEAT"  group-title="Malaysia",INDIA BEAT
+http://astro4.rastream.com/india?type=.flv
+
+#EXTINF:0, KELANTAN FM
+http://72.20.10.34:8000/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm.jpg" tvg-name="SABAH FM"  group-title="Malaysia",SABAH FM
+http://192.111.140.6:8131/;stream.mp3
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.img.co/radio/11/40/44011_290.png" tvg-name="SARAWAK FM"  group-title="Malaysia",SARAWAK FM
+http://124.82.221.149:8000/;stream.mp3
+
+
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< SKY CHANNEL >>>>>>>>>>>>>>>>>>>[/COLOR]
+
+#EXTINF:0,Sky Cinema
+https://skyfall.to/SkyCinema/index.m3u8
+
+#EXTINF:0,Sky Action
+https://skyfall.to/SkyCinemaAction/index.m3u8
+
+#EXTINF:0,Sky Emotion
+https://skyfall.to/SkyCinemaEmotion/index.m3u8
+
+#EXTINF:0,Sky Family
+https://skyfall.to/SkyCinemaFamily/index.m3u8
+
+#EXTINF:0,Sky Comedy
+https://skyfall.to/SkyCinemaComedy/index.m3u8
+
+#EXTINF:0,Sky Hits
+https://skyfall.to/SkyCinemaHits/index.m3u8
+
+#EXTINF:0,Sky Cinema 24
+https://skyfall.to/SkyCinema24/index.m3u8
+
+#EXTINF:0,Sky Atlantic
+https://skyfall.to/SkyAtlantic/index.m3u8
+
+#EXTINF:0,Sky Krimi
+https://skyfall.to/SkyKrimi/index.m3u8
+
+#update soon for more channel
 
 
 
