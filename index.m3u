@@ -9,13 +9,13 @@
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Family Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="img/asia/my/tv1.png" tvg-name="RTM TV1"  group-title="Family Pack",RTM TV1
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv1.png" tvg-name="RTM TV1"  group-title="Family Pack",RTM TV1
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="img/asia/my/tv2.png" tvg-name="RTM TV2"  group-title="Family Pack",RTM TV2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv2.png" tvg-name="RTM TV2"  group-title="Family Pack",RTM TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="img/asia/my/tv3.png" tvg-name="TV3"  group-title="Family Pack",TV3
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv3.png" tvg-name="TV3"  group-title="Family Pack",TV3
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/71/Astro_ria.jpg" tvg-name="Astro Ria"  group-title="Family Pack",Astro Ria
@@ -39,7 +39,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/f/f1/ARTvariety.jpg" tvg-name="ART"  group-title="Family Pack",ART
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="img/asia/my/alhijrah.png" tvg-name="TV AlHijrah"  group-title="Family Pack",TV AlHijrah
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/alhijrah.png" tvg-name="TV AlHijrah"  group-title="Family Pack",TV AlHijrah
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/qFX_QBu2CB3ZLDDRpGbA8BO_P2nWa2Qhp-HoCgzHg9DoaHo2w6kzSUXwd8oz04q2JLI=w300" tvg-name="Astro GO Shop"  group-title="Family Pack",Astro GO Shop
@@ -102,7 +102,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg" tvg-name="Astro Awani"  group-title="Family Pack",Astro Awani
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" tvg-name="Bernama News Channel (BNC)"  group-title="Family Pack",Bernama News Channel (BNC)
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/bernama.jpg" tvg-name="Bernama News Channel (BNC)"  group-title="Family Pack",Bernama News Channel (BNC)
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/CCTV_9_International.jpg" tvg-name="CGTN"  group-title="Family Pack",CGTN
