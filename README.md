@@ -1,5 +1,4 @@
 # Just.TV
-# ----------------
-# Universal Channel 
-# 
-# build for all. 2017
+----------------
+Universal Channel 
+homemade for all. 2017
