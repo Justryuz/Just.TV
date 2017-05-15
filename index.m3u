@@ -18,8 +18,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w1046318068_
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv3.png" tvg-name="TV3"  group-title="Family Pack",TV3
 #https://goo.gl/TgdumC
 #http://tmg1.cf/tmg.m3u8?stream=tv3-malaysia&expired=&token=ab239b46b2c40251e1581f1f39ca1b7f
-#https://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master.m3u8?hdnea=st=1494857742~exp=1494857832~acl=/hls/live/225715/ios/tv3ios_sp/*~hmac=ff62bd67eb700291e5dc8489df521c8d84ed8079f63052ac1f25f52f762bd532
-https://raw.githubusercontent.com/Justryuz/Just.TV/master/my/tv3/master503.m3u8
+https://goo.gl/2l7nrg
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i376.photobucket.com/albums/oo204/indiecrew/Asean%20TV/rtmparlimen_zpsu1trkjx7.png" tvg-name="RTM Parlimen"  group-title="Family Pack",RTM Parlimen
 http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8
@@ -98,7 +97,7 @@ http://playback02.aotg-video.astro.com.my/AOTGHLS/master_AECAPP.m3u8
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png" tvg-name="Celestial Classic Movies"  group-title="Family Pack",Celestial Classic Movies
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=tydy
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://zhongwen.astro.com.my/channels/xty/contest/uploads/5/2/0/9/52099483/7822798.png" tvg-name="Astro Xiao Tai Yang"  group-title="Family Pack",Astro Xiao Tai Yang
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -143,10 +142,10 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/263px-AXN_logo.svg.png" tvg-name="AXN"  group-title="Family Pack",AXN
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=axntw
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e6/Diva_Universal.png" tvg-name="DIVA (Hallmark Channel)"  group-title="Family Pack",DIVA (Hallmark Channel)
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=diva
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/9d/Afc.svg/120px-Afc.svg.png" tvg-name="AFC"  group-title="Family Pack",AFC
 http://cd190.live99.top/live/057.m3u8
@@ -188,7 +187,10 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Sports 3"  group-title="Family Pack",Fox Sports 3
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=foxsports
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="Family Pack",ESPN
+http://stream.i4atv.info/ggwpl/live2.m3u8
 
 
 
@@ -222,23 +224,23 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Movies Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO"  group-title="Movies Pack",HBO
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO"  group-title="Movies Pack",HBO HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 2"  group-title="Movies Pack",HBO 2
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 2"  group-title="Movies Pack",HBO FAMILY
+http://a.q8kk.com/g1.php?id=hbowxjt
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 3"  group-title="Movies Pack",HBO 3
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 3"  group-title="Movies Pack",HBO HITS
+http://a.q8kk.com/g1.php?id=hboqdjx
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 4"  group-title="Movies Pack",HBO 4
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 4"  group-title="Movies Pack",HBO SIGNATURE
+http://a.q8kk.com/g1.php?id=hboycjx
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 5"  group-title="Movies Pack",HBO 5
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="HBO HD"  group-title="Movies Pack",HBO HD
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=hbohd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/88px-Max_%28channel%29.svg.png" tvg-name="Cinemax"  group-title="Movies Pack",Cinemax
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -247,13 +249,13 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Movies Premium"  group-title="Movies Pack",Fox Movies Premium
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=fox
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Familly Movies HD"  group-title="Movies Pack",Fox Familly Movies HD
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=foxjtyy
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png" tvg-name="Fox Action Movies HD"  group-title="Movies Pack",Fox Action Movies HD
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=foxdzdy
 
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MALAYSIA >>>>>>>>>>>>>>>>>>>[/COLOR]
@@ -286,6 +288,15 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/512px-Eurosport_Logo_2015.svg.png" tvg-name="Eurosport"  group-title="Sports Pack",Eurosport
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" tvg-name="BeIN Sports HD 1"  group-title="Sports Pack",BeIN Sports HD 1
+http://27.254.150.3:1935/live1/0x777_beinsport1_720p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" tvg-name="BeIN Sports HD 2"  group-title="Sports Pack",BeIN Sports HD 2
+http://27.254.150.3:1935/live1/0x777_beinsporthd2_720p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" tvg-name="BeIN Sports HD 3"  group-title="Sports Pack",BeIN Sports HD 3
+http://27.254.150.3:1935/live1/0x777_beinsporthd3_720p/playlist.m3u8
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" tvg-name="BeIN Sports HD"  group-title="Sports Pack",BeIN Sports HD
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
@@ -309,10 +320,13 @@ https://www.youtube.com/heartbeat?video_id=Ga3maNZ0x0w&c=WEB&cver=1.20170503&utc
 https://mediauswest.akamaized.net/us/us3_live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" tvg-name="SkyNews UK"  group-title="News Pack",SkyNews UK
-https://edge-1273-de-fr.filmon.com/live/27.low.stream/playlist.m3u8
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/Australia_Plus_logo.png" tvg-name="Australia Plus TV"  group-title="News Pack",Australia Plus TV
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" tvg-name="ABC News"  group-title="News Pack",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.cnnindonesia.com/assets/image/logo_new.png" tvg-name="CNN Indonesia"  group-title="News Pack",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w809285383_b496000.m3u8
@@ -395,10 +409,10 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Disney_Channel_wordmark.svg/207px-Disney_Channel_wordmark.svg.png" tvg-name="Disney Channel"  group-title="Cartoon Pack",Disney Channel
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=dsnkt
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1000px-Cartoon_Network_logo.svg.png" tvg-name="Cartoon Network"  group-title="Cartoon Pack",Cartoon Network
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=cnkthd
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://static1.squarespace.com/static/5313acf2e4b0ff95a87283a8/t/561b005ce4b01fb24a27a072/1493888149054/" tvg-name="Zoo Moo"  group-title="Cartoon Pack",Zoo Moo
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -419,7 +433,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" tvg-name="MTV"  group-title="Variasi Pack",MTV
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://a.q8kk.com/g1.php?id=mtvlive
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/0/0b/Animax_logo.jpg" tvg-name="Animax"  group-title="Variasi Pack",Animax
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
@@ -484,7 +498,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 
 
 #EXTINF:-1 tvg-logo="http://gl3a.com/album/165212_1340634894.jpg",MBC 2
-http://158.69.229.52:8900/MBC2/index.m3u8
+http://selevision9880-i.akamaihd.net/hls/live/219174/98801/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_200x200.jpg",MBC MAX
 http://158.69.229.52:8900/MBCMAX/index.m3u8
@@ -493,7 +507,10 @@ http://158.69.229.52:8900/MBCMAX/index.m3u8
 http://158.69.229.52:8900/MBCAction/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://arabztv.com/wp-content/uploads/2012/03/mbc4.jpg",MBC 4
-http://158.69.229.52:8900/MBC4/index.m3u8
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
+
+#EXTINF:0,MBC BOLLYWOOD
+http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
 
 
 
