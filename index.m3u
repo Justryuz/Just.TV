@@ -141,7 +141,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/263px-AXN_logo.svg.png" tvg-name="AXN"  group-title="Family Pack",AXN
-http://a.q8kk.com/g1.php?id=axntw
+http://live4.yamnah.net:8081/live/axn-hq/chunks.m3u8?nimblesessionid=9678260&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE3IDg6NDY6NTEgQU0maGFzaF92YWx1ZT1zSXF6czU0Rm9ZUkwrdmk4emMvVW13PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE3Mi42OC4xNDQuOSZzdHJtX2xlbj0xMQ==
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/e6/Diva_Universal.png" tvg-name="DIVA (Hallmark Channel)"  group-title="Family Pack",DIVA (Hallmark Channel)
 http://a.q8kk.com/g1.php?id=diva
