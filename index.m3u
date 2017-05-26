@@ -191,6 +191,15 @@ http://a.q8kk.com/g1.php?id=foxsports
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="Family Pack",ESPN
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bein Movies HD 1" tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies1.jpg" group-title="Family Pack",Bein Movies HD 1
+http://live4.yamnah.net:8081/live/beinmovies1-hq/chunks.m3u8?nimblesessionid=9693055&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE3IDk6Mzk6MjggQU0maGFzaF92YWx1ZT1wZ25xcjJSRVp1WWc5Z0ZHeWk0WnpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE3Mi42OC4xNDQuOSZzdHJtX2xlbj0xOQ==
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bein Movies HD 2" tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies2.jpg" group-title="Family Pack",Bein Movies HD 2
+http://live4.yamnah.net:8081/live/beinmovies2-hq/chunks.m3u8?nimblesessionid=9694889&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE3IDk6NDU6MDEgQU0maGFzaF92YWx1ZT1PbHIrZDZvNzZRWHJjK1J5YVp6aTV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE3Mi42OC4xNDQuOSZzdHJtX2xlbj0xOQ==
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bein Movies HD 3" tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies3.jpg" group-title="Family Pack",Bein Movies HD 3
+http://live4.yamnah.net:8081/live/beinmovies3-hq/chunks.m3u8?nimblesessionid=9695339&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE3IDk6NDY6MjQgQU0maGFzaF92YWx1ZT1uOVRzcGU5YzBxNFZrNllNbk8veFhBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE3Mi42OC4xNDQuOSZzdHJtX2xlbj0xOQ==
+
 
 
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Dynasty Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
@@ -224,7 +233,7 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b
 #EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< Astro Movies Pack >>>>>>>>>>>>>>>>>>>[/COLOR]
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO"  group-title="Movies Pack",HBO HD
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://live4.yamnah.net:8081/live/hbo-hq/chunks.m3u8?nimblesessionid=9692626&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE3IDk6Mzg6MDkgQU0maGFzaF92YWx1ZT1aZ2l0dnN4RUxVTnk2WExlQWZ5L0VBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE3Mi42OC4xNDQuOSZzdHJtX2xlbj0xMQ==
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" tvg-name="HBO 2"  group-title="Movies Pack",HBO FAMILY
 http://a.q8kk.com/g1.php?id=hbowxjt
@@ -257,7 +266,7 @@ http://a.q8kk.com/g1.php?id=foxjtyy
 http://a.q8kk.com/g1.php?id=foxdzdy
 
 
-#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MALAYSIA >>>>>>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< SPORT >>>>>>>>>>>>>>>>>>>[/COLOR]
 
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" tvg-name="Astro SuperSport"  group-title="Sports Pack",Astro SuperSport
@@ -347,7 +356,7 @@ https://skyfall.to/NationalGeographic/index.m3u8
 http://80.80.160.168/live/9/live.m3u8
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" tvg-name="History"  group-title="Education Pack",History
-http://stream4.1malaysiaiptv.com/mylive/smil:tv1_all.smil/chunklist_w292805157_b1000000_sleng.m3u8
+http://live4.yamnah.net:8081/live/history-hq/chunks.m3u8?nimblesessionid=9696315&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDE3IDk6NDk6MDkgQU0maGFzaF92YWx1ZT1qN3hxWjZIUkRPNFpIMUVjVk5VaWNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE3Mi42OC4xNDQuOSZzdHJtX2xlbj0xNQ==
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/3/3a/Animal_Planet_Canada_Logo.PNG" tvg-name="Animal Planet"  group-title="Education Pack",Animal Planet
 http://80.80.160.168/live/1/500000/live.m3u8
