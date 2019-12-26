@@ -31,7 +31,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/st
 
 #update soon for more channel
 
-#EXTINF:-1,==== RADIO NEGERI MALAYSIA ====
+#EXTINF:-0,==== RADIO NEGERI MALAYSIA ====
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOKEDAHFMLOGO170X96.png" tvg-name="KedahFM"  group-title="Radio",KedahFM
 https://kedahfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031-96000.m3u8
@@ -90,7 +90,7 @@ https://waifmb.secureswiftcontent.com/rtm-ch029/rtm-ch029/chunklist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOREDFMLOGO170X96.jpg" tvg-name="RedFM"  group-title="Radio",RedFM
 https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
 
-#EXTINF:-1,==== RADIO MALAYSIA ====
+#EXTINF:-0,==== RADIO MALAYSIA ====
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="EraFM"  group-title="Radio",EraFM
 http://astro2.rastream.com/era?type=.flv
