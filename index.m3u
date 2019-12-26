@@ -7,31 +7,31 @@
 # Family Pack
 #------------#
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv1.png" tvg-name="Tv1"  group-title="TV",RTM Tv1
+#EXTINF:0,==== Malaysia ====
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:0,MY: TV1
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv2.png" tvg-name="Tv2"  group-title="TV",RTM Tv2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:0,MY: TV2
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/Justryuz/Just.TV/master/img/asia/my/tv3.png" tvg-name="Tv3"  group-title="TV",Tv3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUzdoEb5B1cpcSNAfnxn2Po)/dm/3/x6qp375/d/live-2.m3u8
+#EXTINF:0,MY: TV3
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/7b/Ntv7_Baru.JPG" tvg-name="NTV7"  group-title="TV",NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxfYplVyV2rDTVmctBxOVY)/dm/3/x6qp6ou/s/live-2.m3u8
+#EXTINF:0,MY: NTV7
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/95/8TV_my.svg/240px-8TV_my.svg.png" tvg-name="8tv"  group-title="TV",8tv
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeo393sNMZQ18bVsFc9gHA4)/dm/3/x6qud17/s/live-0.m3u8
+#EXTINF:0,MY: 8TV
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="Tv9"  group-title="TV",Tv9
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX7mKPvwnKtQumY7YCpLJcE)/dm/3/x6qqja6/s/live-0.m3u8
+#EXTINF:0,MY: TV9
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg" tvg-name="Astro Awani"  group-title="TV",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/streamPlaylist.m3u8
-
+#EXTINF:0,MY: ASTRO AWANI
 
 #update soon for more channel
 
-#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< RADIO NEGERI MALAYSIA >>>>>>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,==== RADIO NEGERI MALAYSIA ====
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOKEDAHFMLOGO170X96.png" tvg-name="KedahFM"  group-title="Radio",KedahFM
 https://kedahfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031-96000.m3u8
@@ -90,7 +90,7 @@ https://waifmb.secureswiftcontent.com/rtm-ch029/rtm-ch029/chunklist.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/smartware-cms-prod/image/radioRADIOREDFMLOGO170X96.jpg" tvg-name="RedFM"  group-title="Radio",RedFM
 https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/chunklist.m3u8
 
-#EXTINF:-1,[COLOR yellow]<<<<<<<<<<<<<<<<<< MALAYSIA RADIO >>>>>>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,==== RADIO MALAYSIA ====
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ee/era_astro.png" tvg-name="EraFM"  group-title="Radio",EraFM
 http://astro2.rastream.com/era?type=.flv
