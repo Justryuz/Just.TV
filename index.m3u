@@ -12,31 +12,127 @@
 #EXTINF:0,MY: TV1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
-
 #EXTINF:0,MY: TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-
 
 #EXTINF:0,MY: TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUzdoEb5B1cpcSNAfnxn2Po)/dm/3/x6qp375/d/live-2.m3u8
 
-
 #EXTINF:0,MY: NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQxfYplVyV2rDTVmctBxOVY)/dm/3/x6qp6ou/s/live-2.m3u8
-
 
 #EXTINF:0,MY: 8TV
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeo393sNMZQ18bVsFc9gHA4)/dm/3/x6qud17/s/live-0.m3u8
 
-
 #EXTINF:0,MY: TV9
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX7mKPvwnKtQumY7YCpLJcE)/dm/3/x6qqja6/s/live-0.m3u8
-
 
 #EXTINF:0,MY: ASTRO AWANI
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/streamPlaylist.m3u8
 
+#EXTINF:0,MY: Drama Sangat!
+https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qCx4c1L7GNQvKaSBOhjX-o)/dm/3/x6zvnex/s/live-2.m3u8
+
+#EXTINF:0,MY: NHK NEWSLINE
+https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_YPL9TSk8cGAJggrzmgvbrA)/dm/3/x6r3wd7/s/live-2.m3u8
+
+#EXTINF:0,MY: NHK NEWSLINE
+https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NMEwPW7YGS41iU-4xT8-xjuKs)/dm/3/x6vgouw/s/live-2.m3u8
+
+#EXTINF:0,MY: NHK NEWSLINE (Al Jazeera)
+https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_YfqiRhQQ2bNX3WBhBaGBAg)/dm/3/x6rsa3u/s/live-2.m3u8
+
 #update soon for more channel
+
+#EXTINF:0,==== Indonesia ====
+
+#EXTINF:0,ID: Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1577650606~acl=/hls-p/ingest_205_*/*~hmac=7516b7154b7e1097c22594cf26c2071ed36232f137e8b84aaf852376dfb08c66/hls-p/ingest_205_480p/index.m3u8
+
+#EXTINF:0,ID: oChannel
+https://etslive-2-vidio-com.akamaized.net/exp=1577650704~acl=/hls-p/ingest_206_*/*~hmac=1c328b949a5b3b439a45b7b85de9bd75e6332ba615f406a6d6605ec275a5426a/hls-p/ingest_206_480p/index.m3u8
+
+#EXTINF:0,ID: KompasTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577650777~acl=/hls-p/ingest_874_*/*~hmac=c779e3acb1fb149e7c7367e1d349da09f2be901ff1600ec0eafd34dc556fd572/hls-p/ingest_874_480p/index.m3u8
+
+#EXTINF:0,ID: MetroTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577650974~acl=/hls-p/ingest_777_*/*~hmac=baa0176be05193f5a9fae93ef8c80c0640645d32ff9b45261e2553339ceb46cf/hls-p/ingest_777_480p/index.m3u8
+
+#EXTINF:0,ID: TransTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577651102~acl=/hls-p/ingest_733_*/*~hmac=5154d6d83013292e4b8b504c15275587c65311aa98b626b7e066b0b000760494/hls-p/ingest_733_480p/index.m3u8
+
+#EXTINF:0,ID: RctiTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577651161~acl=/hls-p/ingest_665_*/*~hmac=2c41fe752f20ca63c3879965533a4ade3e038a9ba36015fc680aa489c7037646/hls-p/ingest_665_480p/index.m3u8
+
+#EXTINF:0,ID: trans7 TV
+https://etslive-2-vidio-com.akamaized.net/exp=1577651232~acl=/hls-p/ingest_734_*/*~hmac=a9ba581605c03901d31ccf03f6d061c2e482aed54a7ed23546ac4b9e50ad6d7d/hls-p/ingest_734_480p/index.m3u8
+
+#EXTINF:0,ID: MNCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577651309~acl=/hls-p/ingest_870_*/*~hmac=747e5b647db89d617cf7a29a3fadc7e516cd98b7291b090ea8d8d7728f0c616f/hls-p/ingest_870_480p/index.m3u8
+
+#EXTINF:0,ID: GLOBALtv
+https://etslive-2-vidio-com.akamaized.net/exp=1577651554~acl=/hls-p/ingest_778_*/*~hmac=07d5c9d82657659516665327c8a679a849d972c4af157e9dbf571ee0fa820641/hls-p/ingest_778_480p/index.m3u8
+
+#EXTINF:0,ID: NetTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577651611~acl=/hls-p/ingest_875_*/*~hmac=9be07a77ecba33c5c489d8f6e2ab10e7eb159e8dd9147cd7be6a03cfb5136666/hls-p/ingest_875_480p/index.m3u8
+
+#EXTINF:0,ID: myTv
+https://etslive-2-vidio-com.akamaized.net/exp=1577653066~acl=/hls-p/ingest_6711_*/*~hmac=6f6aba1633380ca4e03ee8e9c850eaa2677c6139eabbadc7845db66e1ef1c86c/hls-p/ingest_6711_480p/index.m3u8
+
+#EXTINF:0,ID: SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1577653167~acl=/hls-p/ingest_204_*/*~hmac=b305e660b286449beafa51da5ec7783cf12a7b1586b0e60028dc2a7d7dc3130e/hls-p/ingest_204_480p/index.m3u8
+
+
+
+#update soon for more channel
+
+#EXTINF:-0,==== Telefilm RTM MALAYSIA ====
+
+#EXTINF:0,VOD: 5 Hari Kita Bertemu
+https://rtmlfd01.secureswiftcontent.com/2c9114cbb237fc47c385a4c8a9c0ca8a/master.m3u8
+
+#EXTINF:0,VOD: Awe Keno Nikoh
+https://rtmlfd01.secureswiftcontent.com/f4cc439c628c696cba6e7a3a838de5df/master.m3u8
+
+#EXTINF:0,VOD: Al-Kisah Dua Roda
+https://rtmlfd01.secureswiftcontent.com/cd134c434808a21b5270777882029a87/master.m3u8
+
+#EXTINF:0,VOD: Awek Mulut Tempayan
+https://rtmlfd01.secureswiftcontent.com/b0113e6cf19b09669c986872916da3ca/master.m3u8
+
+#EXTINF:0,VOD: Demi Mira
+https://rtmlfd01.secureswiftcontent.com/e48821dd83f568c7194554182ce885ad/master.m3u8
+
+
+#EXTINF:-0,==== Drama RTM MALAYSIA ====
+
+#EXTINF:0,DRAMA: Terlanjur Mencintaimu
+Episode 1
+https://rtmlfd01.secureswiftcontent.com/80a48d386fbd75743ef2cd24f5aae3d5/master.m3u8
+Episode 2
+https://rtmlfd01.secureswiftcontent.com/05688d578f99f0659d2d630cbef2c8a1/master.m3u8
+Episode 3
+https://rtmlfd01.secureswiftcontent.com/86c21c9eb6790beafa144a3da8374fa5/master.m3u8
+Episode 4
+https://rtmlfd01.secureswiftcontent.com/314f7ab3168e668c49723c7e1fff1553/master.m3u8
+Episode 5
+https://rtmlfd01.secureswiftcontent.com/39acc6c48ffd9b5bf021fb5e98e400d0/master.m3u8
+Episode 6
+https://rtmlfd01.secureswiftcontent.com/ecb89e1cb2b6da4a192a06da9905f10f/master.m3u8
+Episode 7
+https://rtmlfd01.secureswiftcontent.com/b6aa2526772efc222136bec8e09de8ab/master.m3u8
+Episode 8
+https://rtmlfd01.secureswiftcontent.com/9d366f1cbcf7b8570c25d67b8d8df942/master.m3u8
+Episode 9
+https://rtmlfd01.secureswiftcontent.com/187c86712b28c89a11b4341655ee980f/master.m3u8
+
+#EXTINF:-0,==== VOD MALAYSIA ====
+
+#EXTINF:0,VOD: Mission Impossible - Fallout (2018)
+http://ir.torrent.tarafdari.com/complete/Mission%20Impossible%20-%20Fallout%20%282018%29%20%5BWEBRip%5D%20%5B1080p%5D%20%5BYTS.AM%5D/Mission.Impossible.-.Fallout.2018.1080p.WEBRip.x264-%5BYTS.AM%5D.mp4
+
+#EXTINF:0,VOD: Jack.Reacher Never Go Back (2016)
+http://ir.torrent.tarafdari.com/complete/Jack.Reacher.Never.Go.Back.2016.720p.BRRip.x264.AAC-ETRG/Jack.Reacher.Never.Go.Back.2016.720p.BRRip.x264.AAC-ETRG.mp4
 
 #EXTINF:-0,==== RADIO NEGERI MALAYSIA ====
 
@@ -141,5 +237,25 @@ http://astro1.rastream.com/lite?type=.flv
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/09/India-Beat.jpg" tvg-name="IndiaBEAT"  group-title="Radio",IndiaBEAT
 http://astro4.rastream.com/india?type=.flv
 
+
+#EXTINF:-0,==== News Channel ====
+
+#EXTINF:0,SP: Fox News (USA) x Offline
+
+
+
+#EXTINF:-0,==== Sport Channel ====
+
+#EXTINF:0,SP: ESPN 1
+http://cdn.yoursports.stream/espn.m3u8
+
+#EXTINF:0,SP: ESPN 2
+http://cdn.yoursports.stream/espn2.m3u8
+
+#EXTINF:0,SP: ACC Network
+http://cdn.yoursports.stream/acc.m3u8
+
+#EXTINF:0,SP: AdSport
+https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 
 
