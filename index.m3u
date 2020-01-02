@@ -42,45 +42,48 @@ https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NMEwPW7YGS41iU-4xT8-
 #EXTINF:0,MY: NHK NEWSLINE (Al Jazeera)
 https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_YfqiRhQQ2bNX3WBhBaGBAg)/dm/3/x6rsa3u/s/live-2.m3u8
 
+#EXTINF:0,MY: RTM SportHD
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8
+
+#EXTINF:0,MY: OkeyTV
+https://rtmokeymobile.secureswiftcontent.com/%20Origin02/ngrp:RTM2/chunklist_b996000.m3u8
+
 #update soon for more channel
 
 #EXTINF:0,==== Indonesia ====
 
 #EXTINF:0,ID: Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1577650606~acl=/hls-p/ingest_205_*/*~hmac=7516b7154b7e1097c22594cf26c2071ed36232f137e8b84aaf852376dfb08c66/hls-p/ingest_205_480p/index.m3u8
-
-#EXTINF:0,ID: oChannel
-https://etslive-2-vidio-com.akamaized.net/exp=1577650704~acl=/hls-p/ingest_206_*/*~hmac=1c328b949a5b3b439a45b7b85de9bd75e6332ba615f406a6d6605ec275a5426a/hls-p/ingest_206_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578103829~acl=/hls-p/ingest_205_*/*~hmac=c74acfd639927d4158afc1e0406a6208f2754db4942e76fbfc3331ec12958ba7/hls-p/ingest_205_480p/index.m3u8
 
 #EXTINF:0,ID: KompasTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577650777~acl=/hls-p/ingest_874_*/*~hmac=c779e3acb1fb149e7c7367e1d349da09f2be901ff1600ec0eafd34dc556fd572/hls-p/ingest_874_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578103946~acl=/hls-p/ingest_874_*/*~hmac=fde8b6f416002be39ba18397f82177d7a35228a0f7579035c9d9562818177fa7/hls-p/ingest_874_480p/index.m3u8
 
 #EXTINF:0,ID: MetroTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577650974~acl=/hls-p/ingest_777_*/*~hmac=baa0176be05193f5a9fae93ef8c80c0640645d32ff9b45261e2553339ceb46cf/hls-p/ingest_777_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578103984~acl=/hls-p/ingest_777_*/*~hmac=0454f0ff5713864689732c107e5865a6271ad146634bd31072b660ce047434a2/hls-p/ingest_777_480p/index.m3u8
 
 #EXTINF:0,ID: TransTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577651102~acl=/hls-p/ingest_733_*/*~hmac=5154d6d83013292e4b8b504c15275587c65311aa98b626b7e066b0b000760494/hls-p/ingest_733_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578104017~acl=/hls-p/ingest_733_*/*~hmac=262fbb3528ade2504ef60a6d4fc46c056527cfdf17e17a28a1d991cc27d3c908/hls-p/ingest_733_480p/index.m3u8
 
 #EXTINF:0,ID: RctiTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577651161~acl=/hls-p/ingest_665_*/*~hmac=2c41fe752f20ca63c3879965533a4ade3e038a9ba36015fc680aa489c7037646/hls-p/ingest_665_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578104058~acl=/hls-p/ingest_665_*/*~hmac=73a4f9cc9ed760aebcfc2979c8a476be41e9c34edab830a74a036479efeb76ed/hls-p/ingest_665_480p/index.m3u8
 
 #EXTINF:0,ID: trans7 TV
-https://etslive-2-vidio-com.akamaized.net/exp=1577651232~acl=/hls-p/ingest_734_*/*~hmac=a9ba581605c03901d31ccf03f6d061c2e482aed54a7ed23546ac4b9e50ad6d7d/hls-p/ingest_734_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578104098~acl=/hls-p/ingest_734_*/*~hmac=d84b6bcd511db87ca74142f5dd14a33894fc5470b37b7279d7c84263a39d7316/hls-p/ingest_734_480p/index.m3u8
 
 #EXTINF:0,ID: MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577651309~acl=/hls-p/ingest_870_*/*~hmac=747e5b647db89d617cf7a29a3fadc7e516cd98b7291b090ea8d8d7728f0c616f/hls-p/ingest_870_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578104134~acl=/hls-p/ingest_870_*/*~hmac=d862b44e5d9660f05b3125a52584aadc5276b009ead2f857156a977ab379d747/hls-p/ingest_870_480p/index.m3u8
 
 #EXTINF:0,ID: GLOBALtv
-https://etslive-2-vidio-com.akamaized.net/exp=1577651554~acl=/hls-p/ingest_778_*/*~hmac=07d5c9d82657659516665327c8a679a849d972c4af157e9dbf571ee0fa820641/hls-p/ingest_778_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578104165~acl=/hls-p/ingest_778_*/*~hmac=5f91e5853e2d0a4c30aef2234bf73fbe486280158b018f8d213c26da7a6a053a/hls-p/ingest_778_480p/index.m3u8
 
-#EXTINF:0,ID: NetTV
+#EXTINF:0,ID: NetTV - Offline
 https://etslive-2-vidio-com.akamaized.net/exp=1577651611~acl=/hls-p/ingest_875_*/*~hmac=9be07a77ecba33c5c489d8f6e2ab10e7eb159e8dd9147cd7be6a03cfb5136666/hls-p/ingest_875_480p/index.m3u8
 
 #EXTINF:0,ID: myTv
 https://etslive-2-vidio-com.akamaized.net/exp=1577653066~acl=/hls-p/ingest_6711_*/*~hmac=6f6aba1633380ca4e03ee8e9c850eaa2677c6139eabbadc7845db66e1ef1c86c/hls-p/ingest_6711_480p/index.m3u8
 
 #EXTINF:0,ID: SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1577653167~acl=/hls-p/ingest_204_*/*~hmac=b305e660b286449beafa51da5ec7783cf12a7b1586b0e60028dc2a7d7dc3130e/hls-p/ingest_204_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1578103737~acl=/hls-p/ingest_204_*/*~hmac=0ee69d50a6513b67606b64150daf9d83ad60194adc17e28c9236ce7815fbc54f/hls-p/ingest_204_480p/index.m3u8
 
 
 
@@ -102,29 +105,6 @@ https://rtmlfd01.secureswiftcontent.com/b0113e6cf19b09669c986872916da3ca/master.
 
 #EXTINF:0,VOD: Demi Mira
 https://rtmlfd01.secureswiftcontent.com/e48821dd83f568c7194554182ce885ad/master.m3u8
-
-
-#EXTINF:-0,==== Drama RTM MALAYSIA ====
-
-#EXTINF:0,DRAMA: Terlanjur Mencintaimu
-Episode 1
-https://rtmlfd01.secureswiftcontent.com/80a48d386fbd75743ef2cd24f5aae3d5/master.m3u8
-Episode 2
-https://rtmlfd01.secureswiftcontent.com/05688d578f99f0659d2d630cbef2c8a1/master.m3u8
-Episode 3
-https://rtmlfd01.secureswiftcontent.com/86c21c9eb6790beafa144a3da8374fa5/master.m3u8
-Episode 4
-https://rtmlfd01.secureswiftcontent.com/314f7ab3168e668c49723c7e1fff1553/master.m3u8
-Episode 5
-https://rtmlfd01.secureswiftcontent.com/39acc6c48ffd9b5bf021fb5e98e400d0/master.m3u8
-Episode 6
-https://rtmlfd01.secureswiftcontent.com/ecb89e1cb2b6da4a192a06da9905f10f/master.m3u8
-Episode 7
-https://rtmlfd01.secureswiftcontent.com/b6aa2526772efc222136bec8e09de8ab/master.m3u8
-Episode 8
-https://rtmlfd01.secureswiftcontent.com/9d366f1cbcf7b8570c25d67b8d8df942/master.m3u8
-Episode 9
-https://rtmlfd01.secureswiftcontent.com/187c86712b28c89a11b4341655ee980f/master.m3u8
 
 #EXTINF:-0,==== VOD MALAYSIA ====
 
