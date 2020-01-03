@@ -88,7 +88,17 @@ https://etslive-2-vidio-com.akamaized.net/exp=1577653066~acl=/hls-p/ingest_6711_
 #EXTINF:0,ID: SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1578103737~acl=/hls-p/ingest_204_*/*~hmac=0ee69d50a6513b67606b64150daf9d83ad60194adc17e28c9236ce7815fbc54f/hls-p/ingest_204_480p/index.m3u8
 
+#EXTINF:0,ID: FashionTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
+#EXTINF:0,ID: 英文FASHION HD2
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:0, 英文FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:0,ID: 英文CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #update soon for more channel
 
