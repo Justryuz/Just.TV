@@ -16,22 +16,22 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
 #EXTINF:0,MY: TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZu779il9Cj_8qtnVsCAdKs)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZtGeow3tjuYp218iEtYy9Q)/dm/3/x6qp375/d/live-2.m3u8
 
 #EXTINF:0,MY: NTV7
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQl8Lhd5M53B93HjmohX1rc)/dm/3/x6qp6ou/s/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWbz8Ydphe149RTmiKtV63Y)/dm/3/x6qp6ou/s/live-2.m3u8
 
 #EXTINF:0,MY: 8TV
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVaykDJY_3KUuyNMkfDOocg)/dm/3/x6qud17/s/live-1.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUjm6rsfmzfmvV-mrq3E7yg)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF:0,MY: TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHULNAoYWDohb5iPuIeXIYtE)/dm/3/x6qqja6/s/live-2.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfnXfoRacVrQ42X6V8ATNfc)/dm/3/x6qqja6/s/live-2.m3u8
 
 #EXTINF:0,MY: ASTRO AWANI
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/streamPlaylist.m3u8
 
 #EXTINF:0,MY: Drama Sangat!
-https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qh9vNYaeZsDKqw0n4Jda1o)/dm/3/x6zvnex/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kHG9nLBam8XsiIK5szvNwo)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:0,MY: NHK NEWSLINE
 https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_YPL9TSk8cGAJggrzmgvbrA)/dm/3/x6r3wd7/s/live-2.m3u8
@@ -56,37 +56,46 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b996000
 #EXTINF:0,==== Indonesia ====
 
 #EXTINF:0,ID: Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1578951551~acl=/hls-p/ingest_205_*/*~hmac=81538f60fa6f2d4d14e7d9bdf6330dd619096ca43b60d559e8bfe8954f680230/hls-p/ingest_205_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656449~acl=/hls-p/ingest_205_*/*~hmac=7cf43eda6a30b0415f763887c2d50898deac8ad7646abcf0ac5866b8f4d3ec17/hls-p/ingest_205_480p/index.m3u8
 
 #EXTINF:0,ID: KompasTV
-https://etslive-2-vidio-com.akamaized.net/exp=1578951608~acl=/hls-p/ingest_874_*/*~hmac=438fac7a145d871d5f5356aa1a2a4a02d9818ea4b74131b8f8ebe0814533e2fc/hls-p/ingest_874_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656492~acl=/hls-p/ingest_874_*/*~hmac=1e6506bbb525df10af039e39303dc76eadc64eb9f2c50ff9a4a93cab40cc6eb8/hls-p/ingest_874_480p/index.m3u8
+
+#EXTINF:0,ID: Berita Satu
+https://etslive-2-vidio-com.akamaized.net/exp=1579656595~acl=/hls-p/ingest_6165_*/*~hmac=edce34e9ddb73984d330d280b22e778c06f4bd36bff146d5ec7581336599080c/hls-p/ingest_6165_480p/index.m3u8
 
 #EXTINF:0,ID: MetroTV
-https://etslive-2-vidio-com.akamaized.net/exp=1578951687~acl=/hls-p/ingest_777_*/*~hmac=28f606a687514a34de925880c51bb9e2d45f6772911c88601bb2be52d1c383f5/hls-p/ingest_777_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656536~acl=/hls-p/ingest_777_*/*~hmac=e189a0cd3213de76face0a7a304cf7a361c8c7d59b1364ea43aa1be8e8ee3393/hls-p/ingest_777_480p/index.m3u8
 
 #EXTINF:0,ID: TransTV
-https://etslive-2-vidio-com.akamaized.net/exp=1578951751~acl=/hls-p/ingest_733_*/*~hmac=f71e6a0931566f2a564f91053fec3c63db7f1c914b9d74122537da23c14941af/hls-p/ingest_733_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656917~acl=/hls-p/ingest_733_*/*~hmac=565c172a8a2ddde311cbf5e06cad9489ba3bae60904304589e6dc2314c8b409f/hls-p/ingest_733_480p/index.m3u8
 
 #EXTINF:0,ID: RctiTV
-https://etslive-2-vidio-com.akamaized.net/exp=1578951785~acl=/hls-p/ingest_665_*/*~hmac=10e281d0059196dba0644d2bf7cbd3da7a59e7e632ecbbdff11cf45180ce0a16/hls-p/ingest_665_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656865~acl=/hls-p/ingest_665_*/*~hmac=5434d63f1a9176ce20ec6fc67f5d0149a2eb09d27f6e5c9a98023183fbe713d1/hls-p/ingest_665_480p/index.m3u8
 
 #EXTINF:0,ID: trans7 TV
-https://etslive-2-vidio-com.akamaized.net/exp=1578951831~acl=/hls-p/ingest_734_*/*~hmac=c61df5e2610c539cf3346b5aff477d987e3ab336cdabc16f40360036c58a85ce/hls-p/ingest_734_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656828~acl=/hls-p/ingest_734_*/*~hmac=3b79bb4aadf118fabe916ea5ebae6b2e733ae934c333cefb6b59c226333528eb/hls-p/ingest_734_480p/index.m3u8
 
 #EXTINF:0,ID: MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1578951873~acl=/hls-p/ingest_870_*/*~hmac=d9a2898cd0f0ddb590a753b4ba4ccc1f6d8aa7ff95e0e5b36a7ca287690500cb/hls-p/ingest_870_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656964~acl=/hls-p/ingest_870_*/*~hmac=df9f1f69485ddc3b266ffa6edf2e557880336ce033bc3191c7e5a9cfad6a044b/hls-p/ingest_870_480p/index.m3u8
 
 #EXTINF:0,ID: GLOBALtv
-https://etslive-2-vidio-com.akamaized.net/exp=1578104165~acl=/hls-p/ingest_778_*/*~hmac=5f91e5853e2d0a4c30aef2234bf73fbe486280158b018f8d213c26da7a6a053a/hls-p/ingest_778_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656996~acl=/hls-p/ingest_778_*/*~hmac=b21c6d088baedecd68ec37b90c6938b8aec197d49d0ff7258c08e239203d4716/hls-p/ingest_778_480p/index.m3u8
 
-#EXTINF:0,ID: NetTV - Offline
-https://etslive-2-vidio-com.akamaized.net/exp=1577651611~acl=/hls-p/ingest_875_*/*~hmac=9be07a77ecba33c5c489d8f6e2ab10e7eb159e8dd9147cd7be6a03cfb5136666/hls-p/ingest_875_480p/index.m3u8
+#EXTINF:0,ID: NetTV
+https://etslive-2-vidio-com.akamaized.net/exp=1579657035~acl=/hls-p/ingest_875_*/*~hmac=6ddf778dbd3079745ccc3b2756dfb5a6a42e879fd6366f7d7cba87250dc9ade1/hls-p/ingest_875_480p/index.m3u8
 
 #EXTINF:0,ID: myTv
-https://etslive-2-vidio-com.akamaized.net/exp=1577653066~acl=/hls-p/ingest_6711_*/*~hmac=6f6aba1633380ca4e03ee8e9c850eaa2677c6139eabbadc7845db66e1ef1c86c/hls-p/ingest_6711_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579657080~acl=/hls-p/ingest_6711_*/*~hmac=80af695f40e29367735ef47a0b46722088f1f47568bb11d9bb3df6b0f4279ec1/hls-p/ingest_6711_480p/index.m3u8
 
 #EXTINF:0,ID: SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1578103737~acl=/hls-p/ingest_204_*/*~hmac=0ee69d50a6513b67606b64150daf9d83ad60194adc17e28c9236ce7815fbc54f/hls-p/ingest_204_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1579656373~acl=/hls-p/ingest_204_*/*~hmac=f9db4fe8a115e747bfe630f1259d83a2953243bf140aa4c9a7943f87498772c7/hls-p/ingest_204_480p/index.m3u8
+
+#EXTINF:0,ID: DaaiTV
+https://etslive-2-vidio-com.akamaized.net/exp=1579657385~acl=/hls-p/ingest_6482_*/*~hmac=de146d9cd8227cb0f91f55c8698abdf132964f8dc47892bae2ded51475b12967/hls-p/ingest_6482_480p/index.m3u8
+
+#EXTINF:0,ID: Islam Channel
+https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w595506326.m3u8
 
 #EXTINF:0,ID: FashionTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
