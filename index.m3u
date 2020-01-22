@@ -53,6 +53,91 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b996000
 
 #update soon for more channel
 
+#EXTINF:0,==== Korean ====
+
+#EXTINF:0,MY: EBS Kids!
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:0,MY: SOUTH KOREA",EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+ 
+#EXTINF:0,MY: SOUTH KOREA",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0,MY: SOUTH KOREA",EBS Plus 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",EBS Plus 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",ETN
+http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",G1
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KBC
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KBS 2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",MTN
+http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",SBS
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",TBC
+http://221.157.125.232:1935/live/psike/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",TV Chosun (Opt-1)
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",TV Chosun (Opt-2)
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",YTN
+http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
+ 
+#EXTINF:0,MY: SOUTH KOREA",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:0,==== USA ====
+
+#EXTINF:0,MY: World News!
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:0,MY: USA AKC
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:0,MY: USA AFC
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0,MY: American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+ 
+#EXTINF:0,MY: Animal Planet*
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0,MY: Planet Cannabis
+https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
+
 #EXTINF:0,==== Indonesia ====
 
 #EXTINF:0,ID: Indosiar
