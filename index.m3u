@@ -16,31 +16,22 @@ http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
 #EXTINF:0,MY: TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZtGeow3tjuYp218iEtYy9Q)/dm/3/x6qp375/d/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iMr6kvUH6CrzZBZ_xoC6L8)/dm/3/x7a7rpm/s/live-1.m3u8
 
 #EXTINF:0,MY: NTV7
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWbz8Ydphe149RTmiKtV63Y)/dm/3/x6qp6ou/s/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2KluJZ11Y1ZkuqqsQ6UAM)/dm/3/x6qp6ou/s/live-0.m3u8
 
 #EXTINF:0,MY: 8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUjm6rsfmzfmvV-mrq3E7yg)/dm/3/x6qud17/s/live-2.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWx6DGbqQiFjw1H89Whm2uk)/dm/3/x6qud17/s/live-1.m3u8
 
 #EXTINF:0,MY: TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfnXfoRacVrQ42X6V8ATNfc)/dm/3/x6qqja6/s/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaifyUbTaqIlixXTkfFj3Vw)/dm/3/x6qqja6/s/live-2.m3u8
 
 #EXTINF:0,MY: ASTRO AWANI
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/streamPlaylist.m3u8
 
 #EXTINF:0,MY: Drama Sangat!
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kHG9nLBam8XsiIK5szvNwo)/dm/3/x6zvnex/s/live-2.m3u8
-
-#EXTINF:0,MY: NHK NEWSLINE
-https://stream-04.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_YPL9TSk8cGAJggrzmgvbrA)/dm/3/x6r3wd7/s/live-2.m3u8
-
-#EXTINF:0,MY: NHK NEWSLINE
-https://stream-04.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NMEwPW7YGS41iU-4xT8-xjuKs)/dm/3/x6vgouw/s/live-2.m3u8
-
-#EXTINF:0,MY: NHK NEWSLINE (Al Jazeera)
-https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_YfqiRhQQ2bNX3WBhBaGBAg)/dm/3/x6rsa3u/s/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0sia8Os1a-4poHA3J_LNYBg)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:0,MY: RTM SportHD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8
@@ -50,6 +41,9 @@ https://rtmokeymobile.secureswiftcontent.com/%20Origin02/ngrp:RTM2/chunklist_b99
 
 #EXTINF:0,MY: BesTV
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b996000.m3u8
+
+#EXTINF:0,BN: RTB SukmaInderaTV
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1393209961_b1696000_sleng.m3u8
 
 #update soon for more channel
 
@@ -135,8 +129,17 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:0,MY: Animal Planet*
 http://80.80.160.168/live/1/live.m3u8
 
+#EXTINF:0,MY: Animal Planet+
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
 #EXTINF:0,MY: Planet Cannabis
 https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
+
+#EXTINF:-1,MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CULTURA:CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
 
 #EXTINF:0,==== Indonesia ====
 
@@ -236,9 +239,6 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
  
 #EXTINF:0,ID: INDIA",9XM
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
- 
-#EXTINF:0,ID: INDIA",Aaj Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
  
 #EXTINF:0,ID: INDIA",Aarya TV
 http://150.242.21.2/aaryaa.m3u8
@@ -501,6 +501,22 @@ http://ir.torrent.tarafdari.com/complete/Jack.Reacher.Never.Go.Back.2016.720p.BR
 
 #EXTINF:-0,==== RADIO NEGERI MALAYSIA ====
 
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/4/image/300x0/images.title?quality=100" tvg-name="Nasional FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd005/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/7/image/300x0/images.title?quality=100" tvg-name="Pilihan FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd003/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/6/image/300x0/images.title?quality=100" tvg-name="Pelangi FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd001/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/3/image/300x0/images.title?quality=100" tvg-name="Harmoni FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd003/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://cdn-rtb.glueapi.io/v1/content/5/image/300x0/images.title?quality=100" tvg-name="Nur Islam FM"  group-title="Radio",BruneiFM
+https://rtb-radio.glue.live/rd004/chunklist.m3u8
+
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://myklik.rtm.gov.my/image/radioRADIOKEDAHFMLOGO170X96.png" tvg-name="KedahFM"  group-title="Radio",KedahFM
 https://kedahfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch031/rtm-ch031-96000.m3u8
 
@@ -573,10 +589,10 @@ http://mediaprima.rastream.com/mediaprima-koolfm.android
 http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/tt/thr_gegar_my.png" tvg-name="THR GEGAR"  group-title="Radio",THR GEGAR
-http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+https://astro3.rastream.com/gegar.web.hls/playlist.m3u8?listeningSessionID=5e142eb97a5a7e5b_2135449_ph2ernc4_MTAzLjIxLjgxLjM6ODA!_0000006eO9U&downloadSessionID=0&awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Agegar&playerid=GEGAR%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1ODA1MTYzMDcsImV4cCI6MTU4MDYwMjcwN30.y-cHiopM3OGzNFZQJ1WalihSZzCzU7cbB0O-NLe7cEU&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=1580516398884_0.5504034094919263
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/hires/ss/sinar_fm_my.png" tvg-name="SinarFM"  group-title="Radio",SinarFM
-http://astro2.rastream.com/sinar?type=.flv
+https://astro2.rastream.com/sinar.web.hls/playlist.m3u8?listeningSessionID=5e14adc317fbe3f2_2103025_WWu3q9aQ_MTAzLjIxLjgxLjk6ODA!_00000066if4&downloadSessionID=0&awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Asinar&playerid=SINAR%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1ODA1MTY0MjksImV4cCI6MTU4MDYwMjgyOX0.kxGVl23U1FHILDv4omcb1hrYx0Fgtr0E3hcNOBxnoz8&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=9562a7270e57299c317c97b90939fda5
 
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.lyngsat-logo.com/logo/radio/xx/xfm_astro.png" tvg-name="XfreshFM"  group-title="Radio",XfreshFM
 http://audri.rastream.com/amp-xfm_audri?type=.flv
