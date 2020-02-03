@@ -47,10 +47,24 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist_w1393209961_b1696000_sleng.m3u
 
 #update soon for more channel
 
-#EXTINF:0,==== Korean ====
+#EXTINF:0,==== Kids Channel ====
+
+#EXTINF:0,MY: KidsZone!
+http://213.252.252.17/live/eds/Kidzone/HLS_encr/Kidzone-avc1_2200000=31.m3u8
+
+#EXTINF:0,MY: DuckTV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+#EXTINF:0,MY: Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
 #EXTINF:0,MY: EBS Kids!
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:0,MY: TCT Kids!
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:0,==== Korean ====
 
 #EXTINF:0,MY: SOUTH KOREA",EBS 1
 http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
@@ -113,6 +127,9 @@ http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
 #EXTINF:0,==== USA ====
+
+#EXTINF:0,MY: NatGeo!
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:0,MY: World News!
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -627,8 +644,8 @@ http://astro4.rastream.com/india?type=.flv
 
 #EXTINF:-0,==== Sport Channel ====
 
-#EXTINF:0,SP: ESPN 1
-http://cdn.yoursports.stream/espn.m3u8
+#EXTINF:0,SP: ESPN 
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8
 
 #EXTINF:0,SP: ESPN 2
 http://cdn.yoursports.stream/espn2.m3u8
