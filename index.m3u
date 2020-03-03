@@ -10,34 +10,34 @@
 #EXTINF:0,==== Malaysia ====
 
 #EXTINF:0,MY: TV1
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8
 
 #EXTINF:0,MY: TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b564000.m3u8
 
 #EXTINF:0,MY: TV3
 https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nzf_23OkvUlbMYsOtQhOxc)/dm/3/x7a7rpm/s/live-0.m3u8
 
 #EXTINF:0,MY: NTV7
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcwduLdwDNeOmL7Cz-qPD1o)/dm/3/x6qp6ou/s/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ1-6S8FRPPYxGDo6fgacuU)/dm/3/x6qp6ou/s/live-2.m3u8
 
 #EXTINF:0,MY: 8TV
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHckTrpo2sFf9br8oNojAyZw)/dm/3/x6qud17/s/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX9mSp2Pt9WNc4IgQJeipLs)/dm/3/x6qud17/s/live-2.m3u8
 
 #EXTINF:0,MY: TV9
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRJK9i-tUoBMd4a95gfmTyQ)/dm/3/x6qqja6/s/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVtFRuj48YD2ozOERhbheMs)/dm/3/x6qqja6/s/live-2.m3u8
 
 #EXTINF:0,MY: ASTRO AWANI
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream03/streamPlaylist.m3u8
 
 #EXTINF:0,MY: Drama Sangat!
-https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jAVE0GoTR1A1_oiCyHD3Xo)/dm/3/x6zvnex/s/live-2.m3u8
+https://stream-01.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0lTgLQX-QGvf5FO1Oe2mKHQ)/dm/3/x6zvnex/s/live-2.m3u8
 
 #EXTINF:0,MY: RTM SportHD
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1096000.m3u8
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:0,MY: OkeyTV
-https://rtmokeymobile.secureswiftcontent.com/%20Origin02/ngrp:RTM2/chunklist_b996000.m3u8
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:0,MY: BesTV
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b996000.m3u8
@@ -162,37 +162,40 @@ http://live.cgtn.com/cctv-d.m3u8
 #EXTINF:0,==== Indonesia ====
 
 #EXTINF:0,ID: Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1581888941~acl=/hls-p/ingest_205_*/*~hmac=9208fe58eaa663be19ffa04dc52af28753ea90823b7c5111a0416ea1b205a410/hls-p/ingest_205_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243601~acl=/hls-p/ingest_205_*/*~hmac=cee0c548faa304cd3e3cfdce4ed796c152644cc9f6db6c88733c5989662f4dc0/hls-p/ingest_205_480p/index.m3u8
 
 #EXTINF:0,ID: KompasTV
-https://etslive-2-vidio-com.akamaized.net/exp=1581888974~acl=/hls-p/ingest_874_*/*~hmac=0d3eec7c0cc019b8478ccdc14d9109c9a48d0b88ad3909010a7714d185712363/hls-p/ingest_874_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243643~acl=/hls-p/ingest_874_*/*~hmac=81931cf231aeca6f966da4a098e1ee001e3c5426e5b3c849dc4a2da1fb1a1b41/hls-p/ingest_874_480p/index.m3u8
 
 #EXTINF:0,ID: Berita Satu
-https://etslive-2-vidio-com.akamaized.net/exp=1581889004~acl=/hls-p/ingest_6165_*/*~hmac=fe96e23a81c9ff2aa309eee7ffbc32b5a948587a6ecd60949b859f1fa1a6b5b3/hls-p/ingest_6165_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243677~acl=/hls-p/ingest_6165_*/*~hmac=a016634da97fa0fc518ac9f575ccca7b1115a21371212ff4ad5c97d87ba5418e/hls-p/ingest_6165_480p/index.m3u8
 
 #EXTINF:0,ID: MetroTV
-https://etslive-2-vidio-com.akamaized.net/exp=1581889037~acl=/hls-p/ingest_777_*/*~hmac=66bc08e3fe3787399a01a873fa6645c733dc79292b0fdec009afb3d8be07cf5a/hls-p/ingest_777_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243704~acl=/hls-p/ingest_777_*/*~hmac=ebb3cdef4a6a84e53ed9f5cdbe76cf4a6e7cd4f1516c2e5367a07a66114f2469/hls-p/ingest_777_480p/index.m3u8
 
 #EXTINF:0,ID: TransTV
-https://etslive-2-vidio-com.akamaized.net/exp=1581889068~acl=/hls-p/ingest_733_*/*~hmac=33f4d8f542902b4a64e6468dca347b9d28d9cdddf6ca9fdb35b09019c176fd36/hls-p/ingest_733_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243744~acl=/hls-p/ingest_733_*/*~hmac=10e4269d26563ceea0a94704f8a31e4ee217689d505b92f91c3ffb1a8e95819a/hls-p/ingest_733_480p/index.m3u8
 
 #EXTINF:0,ID: RctiTV
-https://etslive-2-vidio-com.akamaized.net/exp=1581889096~acl=/hls-p/ingest_665_*/*~hmac=584379b92426aacb3fb54d016490420083e0c802fe488f44af95858a27bb1e38/hls-p/ingest_665_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243774~acl=/hls-p/ingest_665_*/*~hmac=e59b01f68924e7050c9ff3aaa143c6a6e081e34c234cfb8d356e08382616be26/hls-p/ingest_665_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="LOKAL",  RCTI - Backup
 http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
 #EXTINF:0,ID: trans7 TV
-https://etslive-2-vidio-com.akamaized.net/exp=1581889123~acl=/hls-p/ingest_734_*/*~hmac=08988817b4f22fcb1bbc19f2276553c996aaecbbd5fb3c42f3e9aa54b73aa120/hls-p/ingest_734_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243810~acl=/hls-p/ingest_734_*/*~hmac=a8ba287ed14c16e71b8320147adb95e2f79abd8c9c5fc27bec8085bcb2fe2cc8/hls-p/ingest_734_480p/index.m3u8
 
 #EXTINF:0,ID: MNCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1581889161~acl=/hls-p/ingest_870_*/*~hmac=1729d020c162bbfdbe40af49dfd5deb7cf6d4a8b7bb5f1055409896f5c05deb9/hls-p/ingest_870_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583243835~acl=/hls-p/ingest_870_*/*~hmac=ff8dce51ac22204f737489050ad06ffcd5388bf3acb896bb6d6b7e17b24a1963/hls-p/ingest_870_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKAL",  MNC - Backup
 http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="LOKAL",  ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8?regieaerlays
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="LOKAL",  ANTV
+https://etslive-2-vidio-com.akamaized.net/exp=1583243875~acl=/hls-p/ingest_782_*/*~hmac=e0b08658a653854dceb8f13dc4c6d9366f17099d3afe642a49abcb66428ab104/hls-p/ingest_782_480p/index.m3u8
 
 #EXTINF:0,ID: GLOBALtv
 https://etslive-2-vidio-com.akamaized.net/exp=1581889284~acl=/hls-p/ingest_778_*/*~hmac=bec2169ad8104b0dd31751b32fac9ba9aad121108d13c0c449318a49531eb89e/hls-p/ingest_778_480p/index.m3u8
