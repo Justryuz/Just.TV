@@ -1426,7 +1426,41 @@ http://astro4.rastream.com/india?type=.flv
 
 #EXTINF:-0,==== News Channel ====
 
-#EXTINF:0,SP: Fox News (USA) x Offline
+#EXTINF:-1 group-title="VOD", Danur
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD", Ayat-Ayat Cinta 2
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD", Galih & Ratna
+https://www.googleapis.com/drive/v3/files/1ZrcEm6DJKrQaba9WoRCxZP1aotVGbgEV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="VOD", Ocean's 8
+http://mc42.uhdtv4kstream.com:443/wp/SA01/evb/sb080-Beyond-the-Edge-2018-zth.mp4/index.m3u8
+#EXTINF:-1 group-title="VOD", UNFRIENDED DARK WEB
+https://www3.yuboyun.com/hls/2018/10/19/QLu48Lo4/playlist.m3u8
+#EXTINF:-1 group-title="VOD", SLENDERMAN
+https://www3.yuboyun.com/hls/2018/10/19/D3IK5PpQ/playlist.m3u8
+#EXTINF:-1 group-title="VOD", THE NUN
+https://156zy.suyunbo.tv/2018/11/03/Ob6KAlxkL9RYTGFz/playlist.m3u8
+#EXTINF:-1 group-title="VOD",N/A
+https://cdn.letv-cdn.com/2018/12/14/rUOkRJ1CLKBTnHGZ/playlist.m3u8
+#EXTINF:-1 group-title="VOD", Painted Skin The Double Mask
+https://cdn.letv-cdn.com/2018/12/16/aIQNxQ4fOm1K5fWG/playlist.m3u8
+#EXTINF:-1 group-title="VOD", TUMBBAD
+https://cdn.letv-cdn.com/2018/12/15/q4npo6BoJx9GSMYS/playlist.m3u8
+#EXTINF:-1 group-title="VOD", Kodoku Meatball Machine
+https://156zy.suyunbo.tv/2018/12/15/XSbxhD4hB65QGyBG/playlist.m3u8
+#EXTINF:-1 group-title="VOD", Can't See Me Love You
+https://156zy.suyunbo.tv/2018/12/12/ohwkiqAy3OkDgUtK/playlist.m3u8
+#EXTINF:-1 group-title="VOD", One Cut of the Dead
+https://156zy.suyunbo.tv/2018/12/09/JzPTMSJ5mcgs5sQx/playlist.m3u8
+#EXTINF:-1 group-title="VOD", ATERRADOS
+https://156zy.suyunbo.tv/2018/12/08/EybOCprJGwI263ZG/playlist.m3u8
+#EXTINF:-1 group-title="VOD",  VOID FINDER
+https://156zy.suyunbo.tv/2018/12/06/58tT0cZjnMUVVIXp/playlist.m3u8
+#EXTINF:-1 group-title="VOD", 222 (2017)
+http://9092.ultratv100.com:9090/movies/Batch239/222.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+#EXTINF:-1 group-title="VOD", 47 Meters Down (2017)
+http://9092.ultratv100.com:9090/movies/Batch239/47.Meters.Down.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
+
 
 
 
